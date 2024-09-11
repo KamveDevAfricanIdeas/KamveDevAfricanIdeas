@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KamveDevAfricanIdeas
-- 👀 I’m interested in Desktop Application development, Game Development and Web Development.
-- 🌱 I’m currently learning  .NET, C++ and Web Technologies..
+- 👀 I’m interested in Desktop & Cloud Application Development.
+- 🌱 I’m currently learning  .NET & Web Technologies..
 
 <!---
 - ⚡ Fun fact: ...
